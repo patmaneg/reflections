@@ -15,3 +15,5 @@ When you are not sure about the change
 Working in different teams
 Creating a different version, not want to modify before version
 
+How do the diagrams help you visualize the branch structure?
+By showing in a graphical way the branches I have in my project
