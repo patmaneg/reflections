@@ -10,4 +10,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 By using diff to compare with working directory and by using git diff --staged to control the changes from the repository
 When you have check both, you can commit to the repository with a message
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you are not sure about the change
+Working in different teams
+Creating a different version, not want to modify before version
 
